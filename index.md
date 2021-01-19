@@ -1,8 +1,8 @@
 ## Portfolio
 
 ---
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Online Bookstore](https://github.com/MartynM1982/Online_Bookstore)
+<img src="C:\Users\Martyn Minker\Desktop\Portfolio\Bookstore_project_image.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
