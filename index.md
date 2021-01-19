@@ -2,6 +2,7 @@
 
 ---
 [Online Bookstore](https://github.com/MartynM1982/Online_Bookstore)
+
 <img src="images/Bookstore%20project%20image.jpg?raw=true"/>
 
 ---
