@@ -15,7 +15,7 @@
 
 ---
 
-### Category Name 2
+### Other projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
